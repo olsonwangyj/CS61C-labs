@@ -2,8 +2,8 @@
 
 /* Only change any of these 4 values */
 #define V0 3
-#define V1 0
-#define V2 1
+#define V1 3
+#define V2 3
 #define V3 3
 
 int main(void) {
