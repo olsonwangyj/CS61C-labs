@@ -1,19 +1,19 @@
 Scenario 1
-    1.
-    2.
-    3.
+    1.[cache size] [step size] 
+    2.0.0
+    3.[step size] 1
 
 Scenario 2
-    1.
-    2.
-    3.
+    1.2
+    2.MHHH
+    3.100%
 
 Scenario 3
-    1.
-    2.
-    3.
-    4.
-    5.
+    1.0.50 0.00 0.50
+    2.32 16
+    3.16
+    4.[block size]
+    5.= >
 
 --- lines below are ignored by the AG ---
 
